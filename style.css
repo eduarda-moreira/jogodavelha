@@ -1,0 +1,32 @@
+.estruturaJogo{    
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 15px solid;
+    border-color: rgba(0, 0, 0, 0.863);
+}
+
+.jogoDaVelha{
+    border-collapse: collapse;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+#botao {
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+    color:rgba(72, 207, 135, 0.876);
+}
+
+.heading {
+    font-family: 'Bungee Shade', cursive;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title {
+    font-family: 'Bungee Inline', cursive;
+}
